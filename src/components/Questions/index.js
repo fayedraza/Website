@@ -143,7 +143,7 @@ class questionBox extends Component {
  </p>
 
 <br></br>
-<br></br>
+
 
 
 <a  id='socialMedia' onClick={(e) => {
@@ -154,6 +154,8 @@ Github
 
 </a>
 
+<br></br>
+<br></br>
 
 <a  id='socialMedia' onClick={(e) => {
       e.preventDefault();
@@ -163,6 +165,8 @@ Linkedln
 
 </a>
 
+<br></br>
+<br></br>
 
 <a  id='socialMedia' onClick={(e) => {
       e.preventDefault();
